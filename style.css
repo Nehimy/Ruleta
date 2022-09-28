@@ -139,7 +139,7 @@ body {
 .cone3 {
     clip-path: polygon(50% 0, 50% 50%, 0 0);
     transform: rotate(90deg);
-    background: blue;
+    background: #00b7ff;
 }
 
 .cone4 {
