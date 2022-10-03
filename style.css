@@ -29,7 +29,7 @@ body {
     height: 65px;
     width: 100vw;
     /* background-image: linear-gradient(rgb(255, 229, 107) 28%, rgb(159, 145, 30) 35%, rgb(255, 215, 30) 54%); */
-    background-image: linear-gradient(rgb(249, 217, 70) 28%, rgb(159, 145, 30) 35%, rgb(247, 203, 0) 54%);
+    /* background-image: linear-gradient(rgb(249, 217, 70) 28%, rgb(159, 145, 30) 35%, rgb(247, 203, 0) 54%); */
     background-clip: text;
     -webkit-text-fill-color: transparent;
     color: lawngreen;
